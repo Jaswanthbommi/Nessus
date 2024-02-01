@@ -1,5 +1,5 @@
 # Nessus
-<b>Conquering Vulnerabilities: A Beginner's Guide to Nessus Vulnerability Scanner on Windows</b>
+## Conquering Vulnerabilities: A Beginner's Guide to Nessus Vulnerability Scanner on Windows
 
 In today's interconnected world, cybersecurity is the cornerstone of resilience. Our digital domains, despite their protective measures like firewalls and encryption, can harbor hidden weaknesses – vulnerabilities that act as potential entry points for attackers. These vulnerabilities reside within our systems, applications, and even network devices, posing risks of data breaches, operational disruptions, and significant harm.
 
@@ -16,3 +16,8 @@ In today's interconnected world, cybersecurity is the cornerstone of resilience.
 <b>Actionable Intelligence:</b> It not only identifies vulnerabilities but also provides severity ratings, exploit information, and recommended remediation steps, empowering you to take swift and informed action.
 
 With Nessus as your ally, you can transition from a reactive stance to a proactive approach, fortifying your digital defenses. Embark on this journey to discover the power of Nessus and enhance your cybersecurity posture
+
+## 1. Installation & Activation:
+<b>Download the Nessus Essentials for Windows installer:</b> Head over to https://www.tenable.com/downloads/nessus and choose the appropriate download for your Windows 10 architecture (32-bit or 64-bit).
+<b>Run the installer:</b> Follow the on-screen instructions, accepting the license agreement and choosing an installation directory.
+
